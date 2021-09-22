@@ -1,0 +1,48 @@
+#table {
+    margin-top: 7.5%;
+    margin-left: 15%;
+    width: 70%;
+    height: 70%;
+}
+
+#canv {
+    width: 100%;
+    height: 100%;
+}
+
+#yellow {
+    border-radius: 8px;
+    Background-color: #ffff80;
+}
+
+#blue {
+    border-radius: 8px;
+    Background-color: #00ccff;
+}
+
+#red {
+    border-radius: 8px;
+    Background-color: rgb(219, 86, 86);
+}
+
+#green {
+    border-radius: 8px;
+    Background-color: rgb(71, 206, 71);
+}
+
+#button {
+    text-align: center;
+    font-size: 35px;
+}
+
+#butDiv {
+    /* position: fixed; */
+    text-align: center;
+}
+
+#wrongDiv {
+    font-size: large;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: none;
+}
