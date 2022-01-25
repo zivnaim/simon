@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T12:12:12.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZgAYNBKShURjuDKXTlY9" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T14:24:15.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wPlzQUNpksepSExdSHs8" version="16.4.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="ae-kqWBxQzzmqWpSEAnF-15" value="return NO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ae-kqWBxQzzmqWpSEAnF-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ae-kqWBxQzzmqWpSEAnF-129" target="ae-kqWBxQzzmqWpSEAnF-131">
+        <mxCell id="ae-kqWBxQzzmqWpSEAnF-132" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ae-kqWBxQzzmqWpSEAnF-129" target="ae-kqWBxQzzmqWpSEAnF-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ae-kqWBxQzzmqWpSEAnF-129" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;1. build the structure of the function from the rule&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;2. search the rule structure (path) in the function structure.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -61,10 +61,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ae-kqWBxQzzmqWpSEAnF-131" value="is the rule structure &lt;br&gt;containes in the function?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="630" width="170" height="120" as="geometry" />
+          <mxGeometry x="150" y="660" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ae-kqWBxQzzmqWpSEAnF-133" value="return NO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="670" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
