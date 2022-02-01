@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T19:56:23.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="0AYXxTgc-FDZHWRf9QLb" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T20:06:01.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="xwT-O38d8Lt4qra6A-dQ" version="16.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3076" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3685" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="NmtfxuJke1gbJ19TWnae-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;startSize=15;endSize=11;sourcePerimeterSpacing=6;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aSu28l9oM5dl4ALJ778j-46" target="NmtfxuJke1gbJ19TWnae-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NmtfxuJke1gbJ19TWnae-50" value="&lt;div&gt;&lt;b&gt;SourceCodeLoader:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;get a name of a file in the kernel and return a string representing the source code in the file&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;HTMLParser:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;get an HTML string from &#39;bootlin&#39;, parse it, and return a string with the source code.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ScopeBuilder:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;get a C source code, and return a full Scope object (with the objects inside)&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-960" y="478" width="370" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
